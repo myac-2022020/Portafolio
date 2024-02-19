@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.greenSpace{
+    background-color: #128C7E;
+    height: 20vh;
+    width: 100%;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+}
+h1{
+    color: #fff;
+    display: inline;
+    font-family: monospace;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid #000000;
+}
